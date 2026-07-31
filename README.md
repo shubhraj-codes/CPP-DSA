@@ -6,6 +6,7 @@ A collection of DSA problems solved in C++ to improve my problem solving and com
 
 - Arrays
 - Binary Search
+- Strings
 
 ## Progress
 
